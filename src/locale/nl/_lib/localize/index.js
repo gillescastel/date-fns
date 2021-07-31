@@ -47,7 +47,7 @@ var monthValues = {
 var dayValues = {
   narrow: ['Z', 'M', 'D', 'W', 'D', 'V', 'Z'],
   short: ['zo', 'ma', 'di', 'wo', 'do', 'vr', 'za'],
-  abbreviated: ['zon', 'maa', 'din', 'woe', 'don', 'vri', 'zat'],
+  abbreviated: ['zon', 'maa', 'din', 'woe', 'don', 'vrij', 'zat'],
   wide: [
     'zondag',
     'maandag',
